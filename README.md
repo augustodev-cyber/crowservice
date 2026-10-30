@@ -12,7 +12,7 @@
 **GitHub:** https://github.com/augustodev-cyber  
 **Tipo:** inventário técnico, triagem de exposição e coleta forense não intrusiva.
 
-CrowService ajuda equipes a documentar serviços expostos em ativos autorizados, registrar evidências e priorizar revisões. Não explora vulnerabilidades, não executa brute force, não tenta credenciais e não realiza evasão.
+CrowService ajuda equipes a documentar serviços expostos em ativos autorizados, registrar evidências e priorizar revisões.
 
 ## Instalação (sem venv)
 ```bash
