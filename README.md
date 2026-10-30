@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CrowService v1.0
 
 
