@@ -5,7 +5,7 @@
   <img src="assets/crow.png" width="900" alt="CrowService">
 </p>
 
-# CrowService v1.0.0
+# CrowService v1.0
 
 
 **Autor:** augustodev-cyber  
