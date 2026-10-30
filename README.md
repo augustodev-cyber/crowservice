@@ -4,9 +4,9 @@
 <p align="center">
   <img src="assets/crow.png" width="900" alt="CrowService">
 </p>
-=======
+
 # CrowService v1.0.0
->>>>>>> b9f7b6cd3d6ccb3e74bebb2878865fda2fd8997a
+
 
 **Autor:** augustodev-cyber  
 **GitHub:** https://github.com/augustodev-cyber  
