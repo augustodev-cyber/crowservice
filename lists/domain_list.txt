@@ -1,0 +1,2 @@
+# Domínios autorizados para consultas DNS/WHOIS
+example.com

@@ -1,0 +1,6 @@
+rich>=13.7,<15
+dnspython>=2.6,<3
+python-whois>=0.9
+ipwhois>=1.2
+requests>=2.31,<3
+mitmproxy>=11,<13

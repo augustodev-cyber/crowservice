@@ -1,0 +1,2 @@
+# Um IP ou hostname autorizado por linha
+192.0.2.10

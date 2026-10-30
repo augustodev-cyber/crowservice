@@ -1,0 +1,5 @@
+APP = "CrowService"
+VERSION = "1.0.0"
+AUTHOR = "augustodev-cyber"
+GITHUB = "https://github.com/augustodev-cyber"
+TAGLINE = "SERVICE FORENSICS • ASSET INTELLIGENCE • SECURITY TRIAGE"
