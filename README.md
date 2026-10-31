@@ -14,13 +14,13 @@
 
 CrowService ajuda equipes a documentar serviços expostos em ativos autorizados, registrar evidências e priorizar revisões.
 
-## Instalação (sem venv)
+## Instalação
 ```bash
 chmod +x install.sh
 ./install.sh
 python3 main.py
 ```
-O instalador usa `pip3 --break-system-packages`, conforme solicitado. Isso pode conflitar com pacotes Python gerenciados pelo Linux; prefira uma VM de laboratório.
+`pip3 --break-system-packages`
 
 ## Auditoria web (domínios e sites)
 - Aceita domínio simples ou URL `http://` / `https://`.
@@ -30,8 +30,6 @@ O instalador usa `pip3 --break-system-packages`, conforme solicitado. Isso pode 
 - Lista cookies observados e flags Secure, HttpOnly e SameSite quando disponíveis.
 - Para HTTPS, coleta protocolo TLS, cipher, subject, issuer/autoridade, validade, SAN e fingerprint SHA-256.
 - Guarda resultado no SQLite e exporta JSON/CSV.
-
-A nota web é uma checklist indicativa de configuração observável, não um selo, pentest ou prova de que o site é seguro/vulnerável. Cabeçalhos ausentes podem ser intencionais ou compensados por outros controles. Tecnologias e versões só são exibidas quando declaradas/identificáveis; não há fingerprint invasivo.
 
 ## Funções
 - Alvo único ou importação de wordlist `.txt` de IPs/hostnames.
